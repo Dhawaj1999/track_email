@@ -1,0 +1,8 @@
+{
+    "functions": {
+      "api/track_email.py": {
+        "runtime": "vercel-python@latest"
+      }
+    }
+  }
+  
